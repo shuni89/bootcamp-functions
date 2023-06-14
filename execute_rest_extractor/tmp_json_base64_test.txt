@@ -1,0 +1,4 @@
+echo '{
+  "client-id": "da7509bb-9454-482c-94eb-4c2fb02105b1",
+  "client-secret": "RrJ8Q~VIxZU3_ivVQnKBkxXCkNqmWbCb91nLbctT"
+}' | base64
